@@ -24,7 +24,7 @@
 [<i style="font-size:24px" class="fa">&#xf099;</i>](https://twitter.com/stefanhans65)
 [<i style="font-size:24px" class="fa">&#xf08c;</i>](https://www.linkedin.com/in/stefan-hans-4545ab132/)
 <br>
-<i style="font-size:24px" class="fa">&#xf1f9; Stefan Hans 11/2018 &#xf25e;</i>
+<i style="font-size:24px" class="fa">&#xf1f9; Stefan Hans 01/2019 &#xf25e;</i>
 
 
 
