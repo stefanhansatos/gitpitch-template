@@ -1,3 +1,9 @@
+![thanks](assets/image/thanks.gif)
+
+### Questions? Feedback?
+
+---
+
 @transition[none]
 
 ### Links and Contact
