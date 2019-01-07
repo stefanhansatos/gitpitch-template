@@ -1,10 +1,5 @@
 package funding
 
-type FundServer struct {
-    Commands chan interface{}
-    fund Fund
-}
-
 func NewFundServer(initialBalance int) *FundServer {
     server := &FundServer{
         // make() creates builtins like channels
@@ -17,13 +12,4 @@ func NewFundServer(initialBalance int) *FundServer {
     return server
 }
 
-func (s *FundServer) loop() {
-    // The built-in "range" clause can iterate
-    // over channels, amongst other things
-    for command := range s.Commands {
-    
-        // Handle the command
-        
-    }
-}
 
