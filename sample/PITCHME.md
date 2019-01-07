@@ -1,2 +1,2 @@
 
----?code=go/server.go&lang=golang
+---?code=sample/go/server.go&lang=golang
