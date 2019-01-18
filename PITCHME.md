@@ -16,7 +16,5 @@ What is distributed contexting? Distributed contexting is about distributed syst
 
 ---?include=what/PITCHME.md
 
----?include=sample/PITCHME.md
-
 ---?include=epilog/PITCHME.md
 

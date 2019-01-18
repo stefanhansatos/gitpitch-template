@@ -24,6 +24,4 @@ Network of Isomorphic Applications Operating on Peer Devices
 
 ### Generalisation
 
----
-
 
