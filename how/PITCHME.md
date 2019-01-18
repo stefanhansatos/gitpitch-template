@@ -1,8 +1,10 @@
 ### Decentralisation
 
-Network of Isomorphic Applications Operating on Peer Devices
+Network of <br>
+Isomorphic Applications <br>
+Operating on Peer Devices
 
-- Distributed systems instead of client-server topology 
+- Distributed systems instead of client-server 
 - Isomorphic clients need bootstrap server at most  
 - User devices as alternative to the big cloud providers 
 - Edge aware infrastructure 
