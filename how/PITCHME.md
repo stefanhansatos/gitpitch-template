@@ -10,10 +10,10 @@
 
 ### Generalization
 <br>
-- Bitcoin -> Blockchain-based computing
-- Cloud -> Decentralized OS
-- Data and AI -> Decentralized data exchange
-- Web 2.0 -> Web 3.0
+- Bitcoin -> Blockchain-based computing|
+- Cloud -> Decentralized OS|
+- Data and AI -> Decentralized data exchange|
+- Web 2.0 -> Web 3.0|
 
 ---
 
