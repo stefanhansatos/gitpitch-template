@@ -30,6 +30,13 @@ For me, the main inconsistency in the domain of distributed systems is between d
 *Yuval Noah Harari*
 <br>
 <br>
+
+---
+    
+    @transition[zoom-in fade-out]
+    
+    
+    ### Your Slide Content Goes Here
 ---
 
 ### Network of Isomorphic Applications Operating on Peer Devices
