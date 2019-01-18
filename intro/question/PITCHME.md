@@ -21,8 +21,9 @@ For me, the main inconsistency in the domain of distributed systems is between d
 ---
 
 <br>
-"The key to victory lies more in manipulation 
-<br> and cooperation than in exceptional personal skills."
+"The key to victory lies more in 
+<br> manipulation and cooperation
+<br> than in exceptional personal skills."
 <br>
 <br>
 <br>
