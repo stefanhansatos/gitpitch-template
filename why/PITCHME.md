@@ -32,6 +32,10 @@ For me, the main inconsistency in the domain of distributed systems is between d
 <br>
 ---
 
+![human-cooperation-singularity](assets/image/human-cooperation-singularity.jpg)
+
+---
+
 ### Decentralizing Trust, Data, and Assets
 <br>
 - Tokenized Ecosystem |
