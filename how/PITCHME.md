@@ -1,7 +1,6 @@
 ### Decentralisation
 
-Network of <br>
-Isomorphic Applications <br>
+Network of Isomorphic Apps <br>
 Operating on Peer Devices
 
 - Distributed systems instead of client-server 
