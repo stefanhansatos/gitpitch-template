@@ -1,7 +1,7 @@
 ### Distributed Systems
 
 - Overcome the client-server paradigm completely|
-- Isomorphic clients almost server independent |  
+- Isomorphic clients become server independent |  
 - User devices replace the big cloud providers|
 - Edge aware infrastructure for more data  |
 - Protocol-based and language-agnostic  |
