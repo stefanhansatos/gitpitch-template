@@ -4,7 +4,7 @@ Network of Isomorphic Applications Operating on Peer Devices
 
 - Distributed systems instead of client-server topology 
 - Isomorphic clients need bootstrap server at most  
-- User devices are the only alternative to the big cloud providers 
+- User devices as alternative to the big cloud providers 
 - Edge aware infrastructure 
 - Protocol-based and language-agnostic 
 
@@ -13,9 +13,9 @@ Network of Isomorphic Applications Operating on Peer Devices
 ### Generalisation
 
 
-- Bitcoin -> Blockchain-based computing (Ethereum)
+- Bitcoin -> Blockchain-based computing
 - Cloud -> Decentralized OS
-- Data silos -> Decentralized data exchange (Ocean Protocol)
+- Data silos -> Decentralized data exchange
 - Web 2.0 -> Web 3.0
 
 
@@ -27,7 +27,7 @@ Network of Isomorphic Applications Operating on Peer Devices
 ### Major Challenges in Networkland
 
 - Group Membership Problem |
-<br>
+- |
 - Addressing Problem |
 
 ---
@@ -40,9 +40,9 @@ SWIM++
 - Weakly-consistent |
 - Infection-style |
 - Membership Protocol |
-- + Suspicion Mechanism (against False Positives) |
-- + Piggybacking, ... |
-- implemented by HashiCorp as _memberlist_ package in Go
+- \+ Suspicion Mechanism (against False Positives) |
+- \+ Piggybacking, ... |
+- implemented in Go by HashiCorp |
 
 ---
 ### Addressing Problem
