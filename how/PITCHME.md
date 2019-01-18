@@ -1,13 +1,10 @@
 ### Decentralisation
-
-Network of Isomorphic Apps <br>
-Operating on Peer Devices
-
-- Distributed systems instead of client-server 
-- Isomorphic clients need only bootstrap server  
-- User devices as alternative to big providers 
-- Edge aware infrastructure 
-- Protocol-based and language-agnostic 
+<br>
+- Distributed systems instead of client-server  |
+- Isomorphic clients need only bootstrap server |  
+- User devices as alternative to big providers  |
+- Edge aware infrastructure  |
+- Protocol-based and language-agnostic  |
 
 ---
 
@@ -25,7 +22,7 @@ Operating on Peer Devices
 
 ---
 ### Major Challenges in Networkland
-
+<br>
 - Group Membership Problem |
 - Addressing Problem |
 
@@ -39,22 +36,13 @@ Operating on Peer Devices
 - Process Group Membership Protocol |
 - \+ Suspicion Mechanism |
 - \+ Piggybacking, ... |
-- SWIM++ implemented in Go by HashiCorp |
 
 ---
 ### Addressing Problem
-
+<br>
 - Location Addressing
 - Content Addressing |
 - Context Addressing |
 
 ---
-
-### Distributed Hash Table
-
-Core component in distributed systems like
-
-- Distributed VCS (Git)
-- Blockchain (Ethereum)
-- Peer-Too-Peer Infrastructure (IPFS)
 
