@@ -46,8 +46,8 @@ Operating on Peer Devices
 ### Addressing Problem
 
 - Location Addressing
-- Context Addressing |
 - Content Addressing
+- Context Addressing |
 
 ---
 
@@ -58,3 +58,4 @@ Core component in distributed systems like
 - Distributed VCS (Git)
 - Blockchain (Ethereum)
 - Peer-Too-Peer Infrastructure (IPFS)
+
