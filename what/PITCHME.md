@@ -9,6 +9,7 @@
 - Process Group Membership Protocol |
 - \+ Suspicion Mechanism |
 - \+ Piggybacking, ... |
+- SWIM++ implemented in Go by HashiCorp |
 
 ---
 ### Addressing Solutions
