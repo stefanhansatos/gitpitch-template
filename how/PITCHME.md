@@ -1,5 +1,5 @@
 ### Decentralized Distributed Systems
-<br>
+
 - Overcome the client-server paradigm completely|
 - Isomorphic clients almost server independent |  
 - User devices replace the big cloud providers|
