@@ -25,6 +25,30 @@ Network of Isomorphic Applications Operating on Peer Devices
 
 ---
 
+### Group Membership Problem
+
+SWIM++ |
+
+- *S*calable |
+- *W*eakly-consistent |
+- *I*nfection-style |
+- *M*embership Protocol |
+- *+* Suspicion Mechanism (against False Positives) |
+- *+* Piggybacking, ... |
+
+---
+### Addressing Problem
+
+- Location Addressing
+- Context Addressing |
+- Content Addressing
+
+---
+
 ### Distributed Hash Table
 
-- Git 
+Core component in distributed systems like
+
+- Distributed VCS (Git)
+- Blockchain (Ethereum)
+- Peer-Too-Peer Infrastructure (IPFS)
