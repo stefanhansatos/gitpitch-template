@@ -9,7 +9,7 @@
 - \+ Piggybacking, ... |
 
 ---
-### Addressing Solutions
+### Addressing Categories
 <br>
 - Location Addressing
 - Content Addressing |
@@ -31,6 +31,9 @@ Core component in distributed systems like
 - Blockchain (Ethereum)
 - Peer-Too-Peer Infrastructure (IPFS)
 
+---
+### Addressing Solutions
+<br>
 --- 
 
 
