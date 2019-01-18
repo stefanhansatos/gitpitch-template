@@ -32,7 +32,7 @@ For me, the main inconsistency in the domain of distributed systems is between d
 <br>
 ---
 
-#### Decentralizing Trust, Data, and Assets
+### Decentralizing Trust, Data, and Assets
 
 - Tokenized Ecosystem 
 - Decentralized data exchange protocol
