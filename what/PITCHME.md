@@ -1,6 +1,24 @@
 ## what
 
 ---
+### A Group Membership Solution
+
+- Scalable |
+- Weakly-consistent |
+- Infection-style |
+- Process Group Membership Protocol |
+- \+ Suspicion Mechanism |
+- \+ Piggybacking, ... |
+
+---
+### Addressing Solutions
+<br>
+- Location Addressing
+- Content Addressing |
+- Context Addressing |
+
+---
+
 
 ### Network of Isomorphic Applications <br>
 ### Operating on Peer Devices
