@@ -1,4 +1,4 @@
-## Web 3.0
+## Decentralization and Distributed Systems
 
 ![animated-network-sphere](assets/image/animated-network-sphere.gif)
 

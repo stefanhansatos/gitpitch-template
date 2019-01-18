@@ -39,3 +39,7 @@ For me, the main inconsistency in the domain of distributed systems is between d
 - Cryptocurrencies
 
 
+
+---
+
+![Distributed Contexting](assets/image/orly-web.png)

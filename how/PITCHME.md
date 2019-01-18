@@ -27,7 +27,3 @@ Network of Isomorphic Applications Operating on Peer Devices
 ---
 
 
-
----
-
-![Distributed Contexting](assets/image/orly-web.png)
