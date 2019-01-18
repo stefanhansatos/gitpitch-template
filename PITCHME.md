@@ -1,4 +1,4 @@
-## Decentralization and Distributed Systems
+### Decentralization and Distributed Systems
 
 ![animated-network-sphere](assets/image/animated-network-sphere.gif)
 
