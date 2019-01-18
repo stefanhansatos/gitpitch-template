@@ -1,6 +1,3 @@
-## what
-
----
 ### A Group Membership Solution
 
 - Scalable |
@@ -25,7 +22,6 @@
 ### Operating on Peer Devices
 
 
-- SWIM++ implemented in Go by HashiCorp |
 ---
 ### Distributed Hash Table
 
