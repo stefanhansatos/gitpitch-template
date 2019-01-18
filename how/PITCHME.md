@@ -37,8 +37,8 @@ Operating on Peer Devices
 - Scalable |
 - Weakly-consistent |
 - Infection-style |
-- Membership Protocol |
-- \+ Suspicion Mechanism (against False Positives) |
+- Process Group Membership Protocol |
+- \+ Suspicion Mechanism |
 - \+ Piggybacking, ... |
 - SWIM++ implemented in Go by HashiCorp |
 
@@ -46,7 +46,7 @@ Operating on Peer Devices
 ### Addressing Problem
 
 - Location Addressing
-- Content Addressing
+- Content Addressing |
 - Context Addressing |
 
 ---
