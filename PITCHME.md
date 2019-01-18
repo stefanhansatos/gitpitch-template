@@ -9,9 +9,6 @@ Note:
 
 What is distributed contexting? Distributed contexting is about distributed systems and contexting. Surprisingly, Contexting is hard to explain without its context which is actually distributed systems. I will start with distributed systems and come to contexting in a minute, so to speak.
 
-
----?include=intro/question/PITCHME.md
-
 ---?include=why/PITCHME.md
 
 ---?include=how/PITCHME.md
