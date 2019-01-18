@@ -4,7 +4,7 @@ Network of Isomorphic Apps <br>
 Operating on Peer Devices
 
 - Distributed systems instead of client-server 
-- Isomorphic clients need bootstrap server at most  
+- Isomorphic clients need only bootstrap server  
 - User devices as alternative to big providers 
 - Edge aware infrastructure 
 - Protocol-based and language-agnostic 
@@ -12,8 +12,7 @@ Operating on Peer Devices
 ---
 
 ### Generalisation
-
-
+<br>
 - Bitcoin -> Blockchain-based computing
 - Cloud -> Decentralized OS
 - Data silos -> Decentralized data exchange
