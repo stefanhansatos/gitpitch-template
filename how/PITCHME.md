@@ -28,14 +28,11 @@ Operating on Peer Devices
 ### Major Challenges in Networkland
 
 - Group Membership Problem |
-- |
 - Addressing Problem |
 
 ---
 
 ### Group Membership Problem
-
-SWIM++ 
 
 - Scalable |
 - Weakly-consistent |
@@ -43,7 +40,7 @@ SWIM++
 - Membership Protocol |
 - \+ Suspicion Mechanism (against False Positives) |
 - \+ Piggybacking, ... |
-- implemented in Go by HashiCorp |
+- SWIM++ implemented in Go by HashiCorp |
 
 ---
 ### Addressing Problem
