@@ -1,9 +1,9 @@
-### Decentralisation
+### Decentralized Distributed Systems
 <br>
 - Distributed systems instead of client-server|
 - Isomorphic clients almost server independent |  
 - User devices replace the big cloud providers|
-- Edge aware infrastructure  |
+- Edge aware infrastructure for more data  |
 - Protocol-based and language-agnostic  |
 
 ---
