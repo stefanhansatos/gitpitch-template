@@ -32,7 +32,7 @@ For me, the main inconsistency in the domain of distributed systems is between d
 <br>
 ---
 
-#### Network of Isomorphic Applications Operating on Peer Devices
+### Network of Isomorphic Applications Operating on Peer Devices
 
 - Distributed systems instead of client-server topology |
 - Isomorphic clients need bootstrap server at most  |
