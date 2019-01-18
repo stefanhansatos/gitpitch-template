@@ -1,4 +1,4 @@
-### Decentralized Distributed Systems
+### Distributed Systems
 
 - Overcome the client-server paradigm completely|
 - Isomorphic clients almost server independent |  
