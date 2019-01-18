@@ -6,7 +6,7 @@ Operating on Peer Devices
 
 - Distributed systems instead of client-server 
 - Isomorphic clients need bootstrap server at most  
-- User devices as alternative to the big cloud providers 
+- User devices as alternative to big providers 
 - Edge aware infrastructure 
 - Protocol-based and language-agnostic 
 
