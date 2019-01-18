@@ -2,7 +2,7 @@
 <br>
 - Distributed systems instead of client-server|
 - Isomorphic clients almost server independent |  
-- User devices as alternative to big providers|
+- User devices as alternative to cloud providers|
 - Edge aware infrastructure  |
 - Protocol-based and language-agnostic  |
 
