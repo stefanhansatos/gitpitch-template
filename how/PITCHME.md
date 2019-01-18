@@ -1,7 +1,7 @@
 ### Decentralisation
 <br>
-- Distributed systems instead of client-server  |
-- Isomorphic clients need only bootstrap server |  
+- Distributed systems instead of client-server|
+- Isomorphic clients almost server independent |  
 - User devices as alternative to big providers  |
 - Edge aware infrastructure  |
 - Protocol-based and language-agnostic  |
