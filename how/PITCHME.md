@@ -24,17 +24,25 @@ Network of Isomorphic Applications Operating on Peer Devices
 ![Web 2.0 - Web 3.0](assets/image/web2-3.0.png)
 
 ---
+### Major Challenges in Networkland
+
+- Group Membership Problem |
+<br>
+- Addressing Problem |
+
+---
 
 ### Group Membership Problem
 
-SWIM++ |
+SWIM++ 
 
-- *S*calable |
-- *W*eakly-consistent |
-- *I*nfection-style |
-- *M*embership Protocol |
-- *+* Suspicion Mechanism (against False Positives) |
-- *+* Piggybacking, ... |
+- Scalable |
+- Weakly-consistent |
+- Infection-style |
+- Membership Protocol |
+- + Suspicion Mechanism (against False Positives) |
+- + Piggybacking, ... |
+- implemented by HashiCorp as _memberlist_ package in Go
 
 ---
 ### Addressing Problem
