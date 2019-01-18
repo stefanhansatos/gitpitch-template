@@ -4,9 +4,9 @@
 - Weakly-consistent |
 - Infection-style |
 - Process Group Membership Protocol |
+- SWIM++ implemented in Go by HashiCorp |
 - \+ Suspicion Mechanism |
 - \+ Piggybacking, ... |
-- SWIM++ implemented in Go by HashiCorp |
 
 ---
 ### Addressing Solutions
