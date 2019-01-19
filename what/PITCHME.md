@@ -11,7 +11,7 @@
 ---
 ### Addressing Categories
 <br>
-- Location Addressing
+- Location Addressing |
 - Content Addressing |
 - Context Addressing |
 
