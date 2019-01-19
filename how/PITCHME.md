@@ -1,9 +1,8 @@
-### Distributed Systems
+### Open Distributed Systems
 
 - Overcoming the client-server paradigm completely|
 - Isomorphic clients become server independent |  
 - User devices replace the big cloud providers|
-- Edge aware infrastructure for more data  |
 - Protocol-based and language-agnostic  |
 
 ---
