@@ -25,7 +25,7 @@
 Core component in distributed systems like
 
 - Distributed VCS (Git)
-- Blockchain (Ethereum)
+- Blockchain |
 - Peer-Too-Peer Infrastructure (IPFS)
 
 ---
@@ -33,8 +33,13 @@ Core component in distributed systems like
 <br>
 - binary tree of common size
 - XOR-Metric |
-- Kademlia
+- Kademlia (used by Ethereum, IPFS, ...) |
 
+---
+
+![Kademlia](assets/image/kademlia.png)
+
+---
 --- 
 ### Context Addressing and Engineering (WIP)
 
