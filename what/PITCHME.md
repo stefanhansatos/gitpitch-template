@@ -39,7 +39,6 @@ Core component in distributed systems like
 
 ![Kademlia](assets/image/kademlia.png)
 
----
 --- 
 ### Context Addressing and Engineering (WIP)
 
