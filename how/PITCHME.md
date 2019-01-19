@@ -1,6 +1,6 @@
 ### Open Distributed Systems
 
-- Overcoming the client-server paradigm completely|
+- Overcome the client-server paradigm completely|
 - Isomorphic clients become server independent |  
 - User devices replace the big cloud providers|
 - Protocol-based and language-agnostic  |
