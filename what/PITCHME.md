@@ -5,8 +5,8 @@
 - Infection-style |
 - Process Group Membership Protocol |
 - SWIM++ implemented in Go by HashiCorp |
-- \+ Suspicion Mechanism |
-- \+ Piggybacking, ... |
+- \+ Piggybacking |
+- \+ Suspicion Mechanism, ... |
 
 ---
 ### Addressing Categories
