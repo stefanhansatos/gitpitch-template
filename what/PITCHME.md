@@ -40,7 +40,11 @@ Core component in distributed systems like
 ![Kademlia](assets/image/kademlia.png)
 
 --- 
-### Context Addressing and Engineering (WIP)
+### Context Addressing (WIP)
+
+- Context Functions instead of hash functions |
+- Distributed Context Tables instead of DHT
+- Context Engineering, i.e. creating individual context functions |
 
 
 
