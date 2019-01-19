@@ -43,7 +43,7 @@ Core component in distributed systems like
 ### Context Addressing (WIP)
 
 - Context Functions instead of hash functions |
-- Distributed Context Tables instead of DHT
+- Distributed Context Tables instead of DHT |
 - Context Engineering, i.e. creating individual context functions |
 
 
