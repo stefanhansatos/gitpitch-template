@@ -15,12 +15,9 @@
 - Content Addressing |
 - Context Addressing |
 
----
-
-
++++
 ### Network of Isomorphic Applications <br>
 ### Operating on Peer Devices
-
 
 ---
 ### Distributed Hash Table
@@ -32,12 +29,15 @@ Core component in distributed systems like
 - Peer-Too-Peer Infrastructure (IPFS)
 
 ---
-### Addressing Solutions
+### Content Addressing Solutions
 <br>
+- binary tree of common size
+- XOR-Metric |
+- Kademlia
+
 --- 
+### Context Addressing and Engineering (WIP)
 
-
-### Context Addressing and Engineering
 
 
 
