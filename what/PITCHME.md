@@ -44,7 +44,7 @@ Core component in distributed systems like
 
 - Context Functions instead of hash functions |
 - Distributed Context Tables instead of DHT |
-- Context Engineering, i.e. creating individual context functions |
+- Context Engineering <br>    i.e. creating individual context functions |
 
 
 
