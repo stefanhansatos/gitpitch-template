@@ -32,7 +32,7 @@ For me, the main inconsistency in the domain of distributed systems is between d
 <br>
 ---
 
-![human-cooperation-singularity](assets/image/cooperation-singularity.png)
+![human-cooperation-singularity](assets/image/work-for-hcs.png)
 
 ---
 
