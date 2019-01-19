@@ -26,12 +26,12 @@ Core component in distributed systems like
 
 - Distributed VCS (Git)
 - Blockchain |
-- Peer-Too-Peer Infrastructure (IPFS)
+- Peer-Too-Peer Infrastructure |
 
 ---
 ### Content Addressing Solutions
 <br>
-- binary tree of common size
+- binary tree of common size |
 - XOR-Metric |
 - Kademlia (used by Ethereum, IPFS, ...) |
 
