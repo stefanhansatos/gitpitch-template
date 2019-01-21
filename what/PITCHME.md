@@ -52,11 +52,11 @@ Core component in distributed systems like
 
 - Functions which can associate anything <br>    to a certain kind of binary structure |
 - The binary structure consists of two parts |
-    - one represents information
-    - one represents relevance or interest
-- As a binary tree
-    - one represents a subtree (relevance)
-    - one represents a leaf in it (information)
+    - one represents information |
+    - one represents relevance or interest |
+- As a binary tree |
+    - one represents a subtree |
+    - one represents a leaf in it |
 - Another representation is <br>    a double stranded line of bits  |
   
 
