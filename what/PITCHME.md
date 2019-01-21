@@ -50,8 +50,8 @@ Core component in distributed systems like
 --- 
 ### Context Functions 
 
-- Functions which can associates anything to one kind of binary structure 
-- functions define binary representations 
+- Functions which can associates anything <br>    to one kind of binary structure |
+- functions define binary representations |
   - one strand of bits represents information 
   - one strand of bits represents relevance
   
