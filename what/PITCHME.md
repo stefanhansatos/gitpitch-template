@@ -50,6 +50,7 @@ Core component in distributed systems like
 --- 
 ### Context Functions 
 
+@ol
 - Functions which can associate anything <br>    to a certain kind of binary structure |
 - The binary structure consists of two parts |
     - one represents information |
@@ -58,6 +59,7 @@ Core component in distributed systems like
     - one represents a subtree |
     - one represents a leaf in it |
 - Another representation is <br>    a double stranded line of bits  |
+@olend
   
 
 
