@@ -54,7 +54,8 @@ Core component in distributed systems like
 - The binary structure consists of two parts |
     - one represents information (content) |
     - one represents relevance / interest (mask) |
-- A double stranded line of bits (context)  |
+- A double stranded line of bits (context) <br> or a binary tree with a subtree and a leaf |
+
 
   
 
