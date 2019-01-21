@@ -54,10 +54,10 @@ Core component in distributed systems like
 - The binary structure consists of two parts |
     - one represents information |
     - one represents relevance or interest |
+- i.e. double stranded line of bits  |
 - As a binary tree |
     - one represents a subtree |
     - one represents a leaf in it |
-- Another representation is <br>    a double stranded line of bits  |
   
 
 
