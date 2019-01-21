@@ -72,12 +72,6 @@ Core component in distributed systems like
 
 ---?image=assets/image/contextingTree6.png&size=contain&transition=none
 
----?image=assets/image/contextingTree7.png&size=contain&transition=none
-
----?image=assets/image/contextingTree8.png&size=contain&transition=none
-
----?image=assets/image/contextingTree9.png&size=contain&transition=none
-
 ---
 
 ### Kinds of context
