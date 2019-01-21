@@ -40,12 +40,20 @@ Core component in distributed systems like
 ![Kademlia](assets/image/kademlia.png)
 
 --- 
-### Context Addressing (WIP)
+### Context Addressing 
 
 - Context Functions instead of hash functions |
 - Distributed Context Tables instead of DHT |
 - Context Engineering <br>    i.e. creating individual context functions |
+- 
 
+--- 
+### Context Functions 
 
+- Functions which can associates anything to one kind of binary structure 
+- functions define binary representations 
+  - one strand of bits represents information 
+  - one strand of bits represents relevance
+  
 
 
