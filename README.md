@@ -8,6 +8,6 @@ From the top we will dive down to the core of the underlying technology with is 
 
 Do you say 'bingo' to some of these buzzwords?
 
-Web 3.0, Blockchain, Peer-To-Peer, Decentralized OS, Distributed Hash Table
+**Web 3.0, Blockchain, Peer-To-Peer, Decentralized OS, Distributed Hash Table**
 
 You should drop by, then.
