@@ -50,7 +50,6 @@ Core component in distributed systems like
 --- 
 ### Context Functions 
 
-@ol
 - Functions which can associate anything <br>    to a certain kind of binary structure |
 - The binary structure consists of two parts |
     - one represents information |
@@ -59,7 +58,35 @@ Core component in distributed systems like
     - one represents a subtree |
     - one represents a leaf in it |
 - Another representation is <br>    a double stranded line of bits  |
-@olend
   
+
+
+---?image=assets/image/contextingTree1.png&size=contain&transition=none
+
+---?image=assets/image/contextingTree2.png&size=contain&transition=none
+
+---?image=assets/image/contextingTree3.png&size=contain&transition=none
+
+---?image=assets/image/contextingTree4.png&size=contain&transition=none
+
+---?image=assets/image/contextingTree5.png&size=contain&transition=none
+
+---?image=assets/image/contextingTree6.png&size=contain&transition=none
+
+---?image=assets/image/contextingTree7.png&size=contain&transition=none
+
+---?image=assets/image/contextingTree8.png&size=contain&transition=none
+
+---?image=assets/image/contextingTree9.png&size=contain&transition=none
+
+---
+
+### Kinds of context
+
+- standards, e.g. GPS |
+- taxonomies, e.g. languages |
+- dictionaries, e.g. tags, categories |
+- all, binary representable, i.e. everything |
+- hashes, ai, blockchain |
 
 
