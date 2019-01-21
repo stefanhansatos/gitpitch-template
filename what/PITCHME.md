@@ -50,14 +50,16 @@ Core component in distributed systems like
 --- 
 ### Context Functions 
 
-- Functions which can associates anything <br>    to a certain kind of binary structure |
+- Functions which can associate potentially anything <br>    
+to a certain kind of binary structure |
 - The binary structure consists of two parts |
     - one represents information
-    - one represents relevance
+    - one represents relevance or interest
 - As a binary tree
     - one represents a subtree (relevance)
     - one represents a leaf in it (information)
-- Another representation is <br>    a double stranded line of bits  |
+- Another representation is <br>    
+a double stranded line of bits  |
   
 
 
