@@ -50,7 +50,7 @@ Core component in distributed systems like
 --- 
 ### Context Functions 
 
-- Functions which can associate potentially anything <br>    to a certain kind of binary structure |
+- Functions which can associate anything <br>    to a certain kind of binary structure |
 - The binary structure consists of two parts |
     - one represents information
     - one represents relevance or interest
