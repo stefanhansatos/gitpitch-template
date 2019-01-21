@@ -58,8 +58,6 @@ Core component in distributed systems like
     - one represents a subtree (relevance)
     - one represents a leaf in it (information)
 - Another representation is <br>    a double stranded line of bits  |
-  - one strand of bits represents information (leaf) |
-  - one strand of bits represents relevance (subtree)  |
   
 
 
