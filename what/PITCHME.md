@@ -39,6 +39,14 @@ Core component in distributed systems like
 
 ![Kademlia](assets/image/kademlia.png)
 
++++
+
+![Kademlia](assets/image/kad-dht-1.png)
+
++++
+
+![Kademlia](assets/image/kad-dht-2.png)
+
 --- 
 ### Context Addressing 
 
