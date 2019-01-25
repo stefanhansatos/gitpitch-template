@@ -30,14 +30,15 @@ Core component in distributed systems like
 
 +++ 
 
-![Kademlia](assets/image/merkle-tree.jpeg)
+![DHT](assets/image/dht.png)
 
 +++ 
 
-![Kademlia](assets/image/dht.png)
+![Merkle-Tree](assets/image/merkle-tree.jpeg)
+
 +++ 
 
-![Kademlia](assets/image/blockchain.jpeg)
+![Blockchain](assets/image/blockchain.jpeg)
 
 ---
 ### Content Addressing Solutions
