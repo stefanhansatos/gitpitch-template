@@ -28,7 +28,7 @@ Core component in distributed systems like
 - Blockchain |
 - Peer-Too-Peer Infrastructure |
 ---
-### Merkle Tree and Merkle DAG
+### Merkle and its Tree, Forest and DAG
 
 
 +++ 
