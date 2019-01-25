@@ -28,6 +28,17 @@ Core component in distributed systems like
 - Blockchain |
 - Peer-Too-Peer Infrastructure |
 
++++ 
+
+![Kademlia](assets/image/merkle-tree.jpeg.png)
+
++++ 
+
+![Kademlia](assets/image/dht.png)
++++ 
+
+![Kademlia](assets/image/blockchain.jpeg)
+
 ---
 ### Content Addressing Solutions
 <br>
