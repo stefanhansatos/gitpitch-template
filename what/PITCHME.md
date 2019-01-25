@@ -30,7 +30,7 @@ Core component in distributed systems like
 
 +++ 
 
-![Kademlia](assets/image/merkle-tree.jpeg.png)
+![Kademlia](assets/image/merkle-tree.jpeg)
 
 +++ 
 
