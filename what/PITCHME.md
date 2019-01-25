@@ -27,6 +27,9 @@ Core component in distributed systems like
 - Distributed VCS (Git)
 - Blockchain |
 - Peer-Too-Peer Infrastructure |
+---
+### Merkle Tree and Merkle DAG
+
 
 +++ 
 
