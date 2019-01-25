@@ -37,7 +37,7 @@ Core component in distributed systems like
 
 +++ 
 
-![Merkle-Tree](assets/image/merkle-tree.jpeg)
+![Merkle-Tree](assets/image/merkle-tree.png)
 
 +++ 
 
