@@ -1,3 +1,20 @@
+
+![Distributed Contexting](assets/image/orly-decentralization.png)
+
++++
+
+![Distributed Contexting](assets/image/orly-web.png)
+
+---
+
+### Decentralizing Trust, Data, and Assets
+<br>
+- Tokenized Ecosystem |
+- Decentralized data exchange protocol |
+- Cryptocurrencies |
+
+
+
 ### Open Distributed Systems
 
 - Overcome the client-server paradigm |
