@@ -13,7 +13,7 @@
 - Decentralized data exchange protocol |
 - Cryptocurrencies |
 
-
+---
 
 ### Open Distributed Systems
 
