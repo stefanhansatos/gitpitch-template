@@ -15,7 +15,7 @@
 ### Operating on Peer Devices
 
 ---
-### Distributed Hash Table
+### Distributed Structures for Content
 
 Core component in distributed systems like
 
