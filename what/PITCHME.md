@@ -25,25 +25,25 @@
 Core component in distributed systems like
 
 - Distributed VCS (Git)
-- Blockchain |
 - Peer-Too-Peer Infrastructure |
+- Blockchain |
+
 ---
-### Merkle and its Tree, Forest and DAG
-
-
-+++ 
 
 ![DHT](assets/image/dht.png)
 
-+++ 
+---
+### Merkle Tree
 
 ![Merkle-Tree](assets/image/merkle-tree.png)
 
-+++ 
+---
+### Blockchain Datastructure
 
 ![Blockchain](assets/image/blockchain.jpeg)
 
 ---
+
 ### Content Addressing Solutions
 <br>
 - binary tree of common size |
