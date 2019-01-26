@@ -76,7 +76,7 @@ Core component in distributed systems like
 --- 
 ### Context Addressing 
 
-- Context Functions instead of hash functions |
+- Context functions instead of hash functions |
 - Distributed Context Tables instead of DHT |
 - Context Engineering <br>    i.e. creating individual context functions |
 
