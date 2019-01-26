@@ -36,18 +36,17 @@ For me, the main inconsistency in the domain of distributed systems is between d
 
 ---
 
+![Distributed Contexting](assets/image/orly-decentralization.png)
+
++++
+
+![Distributed Contexting](assets/image/orly-web.png)
+
+---
+
 ### Decentralizing Trust, Data, and Assets
 <br>
 - Tokenized Ecosystem |
 - Decentralized data exchange protocol |
 - Cryptocurrencies |
 
-
-
-+++
-
-![Distributed Contexting](assets/image/orly-decentralization.png)
-
-+++
-
-![Distributed Contexting](assets/image/orly-web.png)
