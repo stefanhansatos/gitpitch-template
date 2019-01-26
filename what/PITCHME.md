@@ -24,6 +24,7 @@ Core component in distributed systems like
 - Blockchain |
 
 ---
+### Distributed Hash Table
 
 ![DHT](assets/image/dht.png)
 
