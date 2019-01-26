@@ -34,9 +34,3 @@
 ---
 
 ![Web 2.0 - Web 3.0](assets/image/web2-3.0.png)
-
----
-### Major Overlay Network Challenges
-<br>
-- Group Membership Problem |
-- Addressing Problem |

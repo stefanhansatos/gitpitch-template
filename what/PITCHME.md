@@ -1,12 +1,7 @@
-### A Group Membership Solution
-
-- Scalable |
-- Weakly-consistent |
-- Infection-style |
-- Process Group Membership Protocol |
-- SWIM++ implemented in Go by HashiCorp |
-- \+ Piggybacking |
-- \+ Suspicion Mechanism, ... |
+### Major Overlay Network Challenges
+<br>
+- Addressing Problem |
+- Group Membership Problem |
 
 ---
 ### Addressing Categories
@@ -61,6 +56,17 @@ Core component in distributed systems like
 +++
 
 ![Kademlia](assets/image/kad-dht-2.png)
+
+---
+
+### A Group Membership Solution
+- Scalable |
+- Weakly-consistent |
+- Infection-style |
+- Process Group Membership Protocol |
+- SWIM++ implemented in Go by HashiCorp |
+- \+ Piggybacking |
+- \+ Suspicion Mechanism, ... |
 
 --- 
 ### Context Addressing 
