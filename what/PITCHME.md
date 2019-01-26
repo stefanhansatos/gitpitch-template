@@ -39,6 +39,10 @@ Core component in distributed systems like
 
 ---
 
+![Web 2.0 - Web 3.0](assets/image/web2-3.0.png)
+
+---
+
 ### Content Addressing Solutions
 <br>
 - binary tree of common size |
