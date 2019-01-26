@@ -7,20 +7,20 @@
 
 ---
 
-### Decentralizing Trust, Data, and Assets
-<br>
-- Tokenized Ecosystem |
-- Decentralized data exchange protocol |
-- Cryptocurrencies |
-
----
-
 ### Open Distributed Systems
 
 - Overcome the client-server paradigm |
 - Isomorphic clients for server independence |  
 - User devices replace the big cloud providers|
 - Protocol-based and language-agnostic  |
+
+---
+
+### Decentralizing Trust, Data, and Assets
+<br>
+- Tokenized Ecosystem |
+- Decentralized data exchange protocol |
+- Cryptocurrencies |
 
 ---
 
