@@ -11,11 +11,11 @@
 
 ---
 
-![ipfs_stack](assets/image/ipfs-stack.jpg)
+![ipfs stack](assets/image/ipfs-stack.jpg)
 
 ---
 
-![ipfs_stack](assets/image/ipfs-thin-waist.jpg)
+![ipfs thin waist](assets/image/ipfs-thin-waist.jpg)
 
 ---
 
