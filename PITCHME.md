@@ -11,6 +11,18 @@
 
 ---
 
+![dht](assets/image/dht.png)
+
+---
+
+![merkle tree](assets/image/merkle-tree.png)
+
+---
+
+![blockchain](assets/image/blockchain.jpeg)
+
+---
+
 ![ipfs stack](assets/image/ipfs-stack.jpg)
 
 ---
