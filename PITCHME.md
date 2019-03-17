@@ -1,6 +1,8 @@
-### Decentralization and Distributed Systems
+### Gitpitch Template
 
-![animated-network-sphere](assets/image/animated-network-sphere.gif)
++++?include=intro/question/PITCHME.md
+
++++?include=intro/story/PITCHME.md
 
 ---?include=why/PITCHME.md
 
