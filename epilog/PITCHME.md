@@ -13,9 +13,9 @@
 [<i style="font-size:24px" class="fa">&#xf268; memegenerator.net</i>](https://memegenerator.net)
 [<i style="font-size:24px" class="fa">&#xf268; dev.to/rly</i>](https://dev.to/rly)
 <br>
-[<i style="font-size:24px" class="fa">&#xf09b; golang-contexting</i>](https://github.com/stefanhans/golang-contexting)
-[<i style="font-size:24px" class="fa">&#xf09b; talk "distributed-contexting"</i>](https://github.com/stefanhans/distributed-contexting)
-[<i style="font-size:24px" class="fa">&#xf09b; talk "go-libp2p"</i>](https://github.com/stefanhans/go-present/tree/master/slides/libp2p)
+[<i style="font-size:24px" class="fab fa-github">&#xf09b; golang-contexting</i>](https://github.com/stefanhans/golang-contexting)
+[<i style="font-size:24px" class="fab">&#xf09b; talk "distributed-contexting"</i>](https://github.com/stefanhans/distributed-contexting)
+[<i style="font-size:24px" class="fab fa-github">&#xf09b; talk "go-libp2p"</i>](https://github.com/stefanhans/go-present/tree/master/slides/libp2p)
 <br>
 [<i style="font-size:24px" class="fa">&#xf09b; go-libp2p</i>](https://github.com/libp2p/go-libp2p)
 [<i style="font-size:24px" class="fa">&#xf09b; go-ipfs</i>](https://github.com/ipfs/go-ipfs)
