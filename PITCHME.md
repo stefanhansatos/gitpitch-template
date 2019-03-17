@@ -1,6 +1,6 @@
 ### 101 IPFS Workshop
 
-![global_systems_at_hand.](assets/image/global_systems_at_hand.jpg)
+![global_systems_at_hand](assets/image/global_systems_at_hand.jpg)
 
 ---
 
