@@ -11,6 +11,14 @@
 
 ---
 
+![ipfs_stack](assets/image/ipfs-stack.jpg)
+
+---
+
+![ipfs_stack](assets/image/ipfs-thin-waist.jpg)
+
+---
+
 ### Installation
 
 - IPFS
@@ -38,3 +46,4 @@
 
 - What's next?
 
+---?include=epilog/PITCHME.md
