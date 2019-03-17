@@ -1,4 +1,4 @@
-### Gitpitch Template
+### 101 IPFS Workshop
 
 +++?include=intro/question/PITCHME.md
 
