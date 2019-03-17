@@ -2,15 +2,39 @@
 
 ![global_systems_at_hand](assets/image/global_systems_at_hand.jpg)
 
-+++?include=intro/question/PITCHME.md
+---
 
-+++?include=intro/story/PITCHME.md
+### Introduction
 
----?include=why/PITCHME.md
+- Open concepts
+- IPFS, ProtoSchool
 
----?include=how/PITCHME.md
+---
 
----?include=what/PITCHME.md
+### Installation
 
----?include=epilog/PITCHME.md
+- IPFS
+
+---
+
+### Exploration
+
+- ```ipfs``` command
+- ```ipfs daemon```
+- WebUI
+- Gateways
+
+---
+
+### Discussion
+
+- Impressions
+- Problems and questions
+- Ideas and issues
+
+---
+
+### Panel
+
+- What's next?
 
