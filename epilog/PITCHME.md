@@ -26,11 +26,11 @@
 <br>
 [<i style="font-size:24px" class="fab">&#xf167; The End of Cloud Computing - Peter Levine</i>](https://www.youtube.com/watch?v=l9tOd6fHR-U&t=24s)
 <br>
-[<i style="font-size:24px" class="fab">&#xf1fa;</i>](mailto://stefanhans65@gmail.com)
+[<i style="font-size:24px" class="fas">&#xf1fa;</i>](mailto://stefanhans65@gmail.com)
 [<i style="font-size:24px" class="fab">&#xf099;</i>](https://twitter.com/stefanhans65)
 [<i style="font-size:24px" class="fab">&#xf08c;</i>](https://www.linkedin.com/in/stefan-hans-4545ab132/)
 <br>
-<i style="font-size:24px" class="fab">&#xf1f9; Stefan Hans 01/2019 &#xf25e;</i>
+<i style="font-size:24px" class="fas">&#xf1f9; Stefan Hans 01/2019 &#xf25e;</i>
 
 
 
