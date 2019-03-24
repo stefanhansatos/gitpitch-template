@@ -6,8 +6,12 @@
 
 ### Introduction
 
-- Open concepts
+- Concepts
 - IPFS, ProtoSchool
+
+---
+
+![dht](assets/image/learningCreativeLearning.png)
 
 ---
 
