@@ -11,6 +11,8 @@
 
 ---
 
+<h2 align="center"> Creative Learning </h2>
+
 ![dht](assets/image/learningCreativeLearning.png)
 
 ---
