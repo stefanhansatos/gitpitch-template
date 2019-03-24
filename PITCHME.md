@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center"> Creative Learning </h2>
+<h3 align="center"> Creative Learning </h3>
 
 ![dht](assets/image/learningCreativeLearning.png)
 
