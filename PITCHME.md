@@ -77,5 +77,3 @@
 ### Panel
 
 - What's next?
-
----?include=epilog/PITCHME.md
