@@ -13,19 +13,33 @@
 
 <h3 align="center"> Creative Learning </h3>
 
-![dht](assets/image/learningCreativeLearning.png)
+![creative learning](assets/image/learningCreativeLearning.png)
 
 ---
+
+<h3 align="center"> Distributed Hash Table </h3>
 
 ![dht](assets/image/dht.png)
 
 ---
 
+<h3 align="center"> Merkle Tree </h3>
+
+
 ![merkle tree](assets/image/merkle-tree.png)
 
 ---
 
+<h3 align="center"> Blockchain </h3>
+
+
 ![blockchain](assets/image/blockchain.jpeg)
+
+---
+
+<h3 align="center"> XOR-Metrics, e.g. Kademlia </h3>
+
+![kademlia](assets/image/kademlia.png)
 
 ---
 
