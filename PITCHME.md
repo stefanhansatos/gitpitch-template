@@ -79,6 +79,35 @@ Feature: Online Tutorials for Go developer using ```present``` ([issue](https://
 
 ---
 
+### Exercises (1/3)
+
+- ipfs basics
+- ipfs pin
+- ipns
+
+The end of the ipns exercise is how we share a public read-write directory commonly. 
+If you have this going, you can watch things under the hood in the next exercise.
+
+- ipfs log
+
+---
+
+### Exercises (2/3)
+
+- ipfs swarm
+- ipfs bootstrap
+
+The end of the bootstrap exercise is how we create a private network of peers.
+
+---
+
+### Exercises (3/3)
+
+- ipfs bitswap
+- ipfs p2p
+
+---
+
 ### Discussion
 
 - Impressions
