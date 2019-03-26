@@ -85,8 +85,7 @@ Feature: Online Tutorials for Go developer using ```present``` ([issue](https://
 - ipfs pin
 - ipns
 
-The end of the ipns exercise is how we share a public read-write directory commonly. 
-If you have this going, you can watch things under the hood in the next exercise.
+The end of the ipns exercise is how <br>we share a public read-write directory commonly. 
 
 - ipfs log
 
@@ -97,7 +96,7 @@ If you have this going, you can watch things under the hood in the next exercise
 - ipfs swarm
 - ipfs bootstrap
 
-The end of the bootstrap exercise is how we create a private network of peers.
+The end of the bootstrap exercise is <br>how we create a private network of peers.
 
 ---
 
