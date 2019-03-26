@@ -11,12 +11,6 @@
 
 ---
 
-<h3 align="center"> Creative Learning </h3>
-
-![creative learning](assets/image/learningCreativeLearning.png)
-
----
-
 <h3 align="center"> Distributed Hash Table </h3>
 
 ![dht](assets/image/dht.png)
@@ -61,6 +55,12 @@ supported by Protocol Labs
 +++
 
 Feature: Online Tutorials for Go developer using ```present``` ([issue](https://github.com/ProtoSchool/protoschool.github.io/issues/172))
+
+---
+
+<h3 align="center"> Creative Learning </h3>
+
+![creative learning](assets/image/learningCreativeLearning.png)
 
 ---
 
