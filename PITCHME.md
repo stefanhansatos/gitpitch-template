@@ -51,13 +51,7 @@
 
 ---
 
-**Interactive tutorials for Golang**
-
-I am used to giving talks about Go using its tool ```present``` to edit and run the code inside the presentation.
-
-I have the slides of my presentations in my repo [go-present](https://github.com/stefanhans/go-present), and it is published on go-talks.appspot.com/github.com/user/repo/path automatically.
-
-If I need packages like go-libp2p, not included online, I have to do the presentation on localhost. There's as well the possibility to run ```present``` in the cloud, e.g., GCP App Engine. I've never tried it, but it seems manageable.
+Feature: Online Tutorials for Go developer using ```present``` ([issue](https://github.com/ProtoSchool/protoschool.github.io/issues/172))
 
 ---
 
