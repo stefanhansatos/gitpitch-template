@@ -85,7 +85,7 @@ Feature: Online Tutorials for Go developer using ```present``` ([issue](https://
 - ipfs pin
 - ipns
 
-The end of the ipns exercise is how <br>we share a public read-write directory commonly. 
+The end of the ipns exercise is how we <br>share a public read-write directory commonly. 
 
 - ipfs log
 
