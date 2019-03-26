@@ -51,6 +51,15 @@
 
 ---
 
+### ProtoSchool
+
+_We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. 
+Everyone is welcome!_
+
+by Protocol Labs
+
++++
+
 Feature: Online Tutorials for Go developer using ```present``` ([issue](https://github.com/ProtoSchool/protoschool.github.io/issues/172))
 
 ---
