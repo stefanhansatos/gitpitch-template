@@ -53,8 +53,8 @@
 
 ### ProtoSchool
 
-_We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. 
-Everyone is welcome!_
+_We are a group of people <br>passionate about the decentralized web <br>and excited to learn, teach, and share ideas. 
+<br>Everyone is welcome!_
 
 supported by Protocol Labs
 
