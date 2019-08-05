@@ -1,4 +1,4 @@
-![thanks](assets/image/thanks.gif)
+![thanks](../assets/image/thanks.gif)
 
 ### Questions? Feedback?
 
