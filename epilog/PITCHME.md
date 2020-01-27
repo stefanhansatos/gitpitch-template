@@ -1,4 +1,4 @@
-![thanks](https://gitpitch.com/pitchme/cdn/github/stefanhansatos/gitpitch-template/master/assets/image/thanks.gif)
+![thanks](../assets/image/thanks.gif)
 
 ### Questions? Feedback?
 
