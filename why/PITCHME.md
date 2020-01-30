@@ -4,6 +4,12 @@
 
 ---
 
-- **Imagine:** during courses and labs ideas occure
+- **Imagine:** ideas during courses and labs
 
-- **Create:**
+- **Create:** a core implementation
+
+- **Play:** with it
+
+- **Share:** it with you
+
+- **Reflect:** and fill the knowledge gaps
