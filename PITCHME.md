@@ -1,4 +1,5 @@
-### Gitpitch Template
+### Developing Cloud Endpoints for gRPC
+
 
 +++?include=intro/question/PITCHME.md
 
