@@ -4,27 +4,34 @@
 
 ---
 
-### Container Orchestration (k8s)
+### Container Orchestration
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
 ---
 
-### Advantages of Cloud-Native (k8s)
+### Advantages of Cloud-Native
 
 - Immutability |
 - Declarative Configuration |
 - Online Self-healing Systems |
-- CI/CD Pipelines |
-- REST APIs |
 
---- 
+---
+
+### Features of Cloud-Native (k8s)
+
+- Products as a Service |
+- CI/CD Pipelines |
+- REST APIs ([API Explorer](https://developers.google.com/apis-explorer/)) |
+- Integration in Kubernetes ([OperatorHub.io](https://operatorhub.io/)) |
+
++++ 
 
 ### Continuous Integration (CI)
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/continuous-integration.png" alt="Continuous Integration (CI)" height="380"/>
 
---- 
++++
 
 ### Continuous Deployment (CD)
 
