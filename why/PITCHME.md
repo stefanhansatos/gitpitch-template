@@ -21,6 +21,14 @@
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
 
+---
+
+### Advantages of Kubernetes
+
+- Immutability |
+- Declarative Configurtion |
+- Self-healing Systems (Reconciliation Loops) |
+
 --- 
 
 ### Continuous Integration (CI)
