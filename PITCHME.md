@@ -1,16 +1,9 @@
-### 101 Google Cloud Platform GCP@Atos
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/google-atos.jpg" alt="Google Cloud  + Atos" title="Google Cloud Platform" height="380"/>
+---?include=cloud-basics/PITCHME.md
 
-+++?include=intro/question/PITCHME.md
+---?include=GCP/PITCHME.md
 
-+++?include=intro/story/PITCHME.md
-
----?include=why/PITCHME.md
-
----?include=how/PITCHME.md
-
----?include=what/PITCHME.md
+---?include=Google-Atos/PITCHME.md
 
 ---?include=epilog/PITCHME.md
 
