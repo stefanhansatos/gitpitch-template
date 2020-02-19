@@ -10,7 +10,7 @@
 - Hybrid and Multi Cloud |
 
 ---
-### Container and Microservices
+### Container and Images
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/container.png" alt="Container" height="380"/>
 
