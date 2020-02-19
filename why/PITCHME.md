@@ -20,15 +20,15 @@
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
-
 ---
 
-### Advantages of Kubernetes
+### Advantages of Cloud-Native (k8s)
 
 - Immutability |
-- Declarative Configurtion |
+- Declarative Configuration |
 - Online Self-healing Systems |
-- CI/CD Pipelines (DevOps) |
+- CI/CD Pipelines |
+- REST APIs |
 
 --- 
 
@@ -43,13 +43,6 @@
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/continuous-deployment.png" alt="Continuous Deployment (CD)" height="380"/>
 
 
-
----
-### Cloud-Native
-
-- Container and Microservices
-- CI/CD Pipelines |
-- Design Pattern |
 
 ---
 ### GCP Products (100+)
