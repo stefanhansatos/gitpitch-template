@@ -5,10 +5,15 @@
 
 ---
 
-### GCP Products
+### GCP Products (100+)
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/gcp-products.png" alt="GCP Products" height="380"/>
-
+- Compute
+- Storage
+- Networking
+- Monitoring, Logging, Tracing (Stackdriver)
+- Developer Tools
+- Big Data and AI
+- Security
 
 ---
 
