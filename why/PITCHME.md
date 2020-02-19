@@ -18,17 +18,13 @@
 
 +++ 
 
-### CI/CD Pipelines (1 of 2)
-
-Continuous Integration (CI)
+### Continuous Integration (CI)
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/continuous-integration.png" alt="Continuous Integration (CI)" height="380"/>
 
 +++ 
 
-### CI/CD Pipelines (2 of 2)
-
-Continuous Deployment (CD)
+### Continuous Deployment (CD)
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/continuous-deployment.png" alt="Continuous Deployment (CD)" height="380"/>
 
