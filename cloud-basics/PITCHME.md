@@ -1,11 +1,3 @@
-
-### Cloud Aspects
-
-- IaaS, PaaS, SaaS, and ...aaS |
-- Public and Private Cloud |
-- Hybrid and Multi Cloud |
-
----
 ### Container and Images
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/containers.png" alt="Container" height="380"/>
@@ -39,16 +31,11 @@
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/continuous-deployment.png" alt="Continuous Deployment (CD)" height="380"/>
 
 
+### Cloud Aspects
 
----
-### GCP Products (100+)
-
-- Compute
-- Storage
-- Networking
-- Developer Tools
-- Logging and Monitoring (Stackdriver)
-- Big Data, AI, Security, and more ...
+- IaaS, PaaS, SaaS, and ...aaS |
+- Public and Private Cloud |
+- Hybrid and Multi Cloud |
 
 ---
 ### 
