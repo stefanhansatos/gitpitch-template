@@ -27,7 +27,8 @@
 
 - Immutability |
 - Declarative Configurtion |
-- Self-healing Systems (Reconciliation Loops) |
+- Online Self-healing Systems |
+- CI/CD Pipelines (DevOps) |
 
 --- 
 
