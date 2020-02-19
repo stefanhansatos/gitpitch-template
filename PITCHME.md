@@ -1,9 +1,11 @@
 ### Google Cloud Platform at Atos
 
-![googleatos](../assets/image/google-atos.jpg)
+![googleatos](https://github.com/stefanhansatos/gitpitch-template/blob/GCP_Atos_101/assets/image/google-atos.jpg)
 
-/Users/stefan/go/src/github.com/stefanhansatos/gitpitch-template/assets/image/google-atos.jpg)
 
+![d](https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/google-atos.jpg)
+
+![r](../../GCP_Atos_101/assets/image/google-atos.jpg)
 
 +++?include=intro/question/PITCHME.md
 
