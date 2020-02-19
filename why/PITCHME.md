@@ -10,11 +10,11 @@
 - Hybrid and Multi Cloud |
 
 ---
-### Cloud-Native
+### Container and Microservices
 
-- Container and Microservices
-- CI/CD Pipelines |
-- Design Pattern |
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/container.png" alt="Container" height="380"/>
+
+
 
 +++ 
 
