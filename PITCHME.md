@@ -1,3 +1,10 @@
+### Agenda
+
+- Cloud Basics
+- Google Cloud Platform
+- Google & Atos
+
+
 
 ---?include=cloud-basics/PITCHME.md
 
