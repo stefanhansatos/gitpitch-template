@@ -1,4 +1,4 @@
-### Developing Cloud Endpoints for gRPC
+### Google Cloud Platform at Atos
 
 
 +++?include=intro/question/PITCHME.md
