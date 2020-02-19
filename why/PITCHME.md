@@ -10,7 +10,7 @@
 - Compute
 - Storage
 - Networking
-- Monitoring, Logging, Tracing (Stackdriver)
+- Logging and Monitoring (Stackdriver)
 - Developer Tools
 - Big Data and AI
 - Security
