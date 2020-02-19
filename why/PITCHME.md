@@ -14,15 +14,20 @@
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/containers.png" alt="Container" height="380"/>
 
+---
+
+### Container Orchestration (k8s)
+
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
 
-+++ 
+--- 
 
 ### Continuous Integration (CI)
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/continuous-integration.png" alt="Continuous Integration (CI)" height="380"/>
 
-+++ 
+--- 
 
 ### Continuous Deployment (CD)
 
