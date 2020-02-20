@@ -24,12 +24,11 @@
 ### Google Resources
 
 
-- Google Cloud Platform (https://cloud.google.com/solutions/)
-- Google Cloud Documentation
+- [Google Cloud Platform](https://console.cloud.google.com/)
+- [Google Cloud Documentation](https://cloud.google.com/docs)
 - [Google Cloud Solutions](https://cloud.google.com/solutions/)
-- Google Codelabs
+- [Google Codelabs](https://codelabs.developers.google.com/)
 
-[<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/google-codelabs.svg" alt="Google Codelabs" height="100"/>](https://codelabs.developers.google.com/)
 
 
 ---
