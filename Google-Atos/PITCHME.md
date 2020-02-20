@@ -10,7 +10,7 @@
 ### Coursera, QWikLabs, and Linux Academy
 
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/coursera.jpeg" alt="Coursera" height="380"/>
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/qwiklabs.jpeg" alt="QWikLabs" height="380"/>
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/linux-academy.jpeg" alt="Linux Academy" height="380"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/coursera.jpeg" alt="Coursera" height="60"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/qwiklabs.jpeg" alt="QWikLabs" height="80"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/linux-academy.jpeg" alt="Linux Academy" height="40"/>
 
