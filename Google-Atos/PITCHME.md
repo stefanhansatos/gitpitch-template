@@ -4,7 +4,7 @@
 ---
 ### Google Cloud Certifications
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/certifications.png" alt="GCP Certifications" title="Google Cloud Platform" height="380"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/certifications.png" alt="GCP Certifications" title="Google Cloud Platform" height="320"/>
 
 ---
 ### Atos Resources
@@ -24,6 +24,11 @@
 ---
 ### Google Resources
 
+
+- Google Cloud Platform (https://cloud.google.com/solutions/)
+- Google Cloud Documentation
+- [Google Cloud Solutions](https://cloud.google.com/solutions/)
+- Google Codelabs
 
 [<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/google-codelabs.svg" alt="Google Codelabs" height="100"/>](https://codelabs.developers.google.com/)
 
