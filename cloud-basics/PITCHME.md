@@ -1,10 +1,10 @@
 ### Cloud Basics
 
-- Virtualisation |
-- Container and Images |
-- Container Orchestration |
-- as a Service (IaaS, PaaS, SaaS ...) |
-- Design Pattern |
+- Virtualisation 
+- Container and Images 
+- Container Orchestration 
+- "as a Service" (IaaS, PaaS, SaaS ...) 
+- Microservices and Design Pattern 
 
 ---
 
@@ -29,9 +29,15 @@
 
 ### Advantages of Cloud-Native
 
-- Immutability |
-- Declarative Configuration |
-- Online Self-healing Systems |
+- Immutability 
+- Declarative Configuration 
+- Online Self-healing Systems 
+
++++
+### Reconciliation Loop (k8s)
+
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/reconciliation-loop.jpeg" alt="Reconciliation Loop (k8s)" height="380"/>
+
 
 ---
 
