@@ -36,7 +36,7 @@
 +++
 ### Reconciliation Loop (k8s)
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/reconciliation-loop.jpeg" alt="Reconciliation Loop (k8s)" height="380"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/reconciliation-loop.jpeg" alt="Reconciliation Loop (k8s)" height="420"/>
 
 
 ---
