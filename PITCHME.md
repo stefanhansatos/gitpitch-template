@@ -1,9 +1,6 @@
 ### Agenda
 
 - Cloud Basics
-    - Virtualisation |
-    - Container and Images |
-    - Container Orchestration |
 - Google Cloud Platform
 - Google & Atos
 

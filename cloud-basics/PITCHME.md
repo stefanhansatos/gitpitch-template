@@ -1,3 +1,11 @@
+### Cloud Basics
+
+- Virtualisation |
+- Container and Images |
+- Container Orchestration |
+- as a Service (IaaS, PaaS, SaaS ...) |
+- Design Pattern |
+
 ### Virtualization
 
 
