@@ -13,6 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/containers.png" alt="Container" height="380"/>
 
+---
 
 ### Container and Images
 
