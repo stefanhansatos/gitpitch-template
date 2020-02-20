@@ -21,7 +21,7 @@
 
 ---
 
-### Container Orchestration
+### Container Orchestration Standard (k8s)
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
@@ -40,7 +40,7 @@
 - Products as a Service
 - CI/CD Pipelines 
 - REST APIs ([API Explorer](https://developers.google.com/apis-explorer/)) 
-- Integration in Kubernetes ([OperatorHub.io](https://operatorhub.io/)) 
+- Integration in k8s ([Operator Hub](https://operatorhub.io/)) 
 
 +++ 
 
