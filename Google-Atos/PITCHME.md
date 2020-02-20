@@ -9,7 +9,7 @@
 ---
 ### Atos Resources
 
-[<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/cloud-developer-guide.png" alt="Cloud Developer Guide" height="380"/>](https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/cloud-developer.pdf)
+[<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/cloud-developer-guide.png" alt="Cloud Developer Guide" height="380"/>](https://sp2013.myatos.net/organization/gf/hr/DE/source/Docs%20Source/People%20Development/Trainings/IT%20Trainings/Google%20TTS/Atos%20-%20Learning%20Guide%20for%20Professional%20Cloud%20Developer%20Certification%20-%20v1.pdf)
 
 ---
 ### Training Resources
