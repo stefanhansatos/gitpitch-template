@@ -6,6 +6,8 @@
 - as a Service (IaaS, PaaS, SaaS ...) |
 - Design Pattern |
 
+---
+
 ### Virtualization
 
 
