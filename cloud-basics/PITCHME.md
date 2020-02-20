@@ -37,10 +37,10 @@
 
 ### Features of Cloud-Native (k8s)
 
-- Products as a Service |
-- CI/CD Pipelines |
-- REST APIs ([API Explorer](https://developers.google.com/apis-explorer/)) |
-- Integration in Kubernetes ([OperatorHub.io](https://operatorhub.io/)) |
+- Products as a Service
+- CI/CD Pipelines 
+- REST APIs ([API Explorer](https://developers.google.com/apis-explorer/)) 
+- Integration in Kubernetes ([OperatorHub.io](https://operatorhub.io/)) 
 
 +++ 
 
@@ -54,19 +54,4 @@
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/continuous-deployment.png" alt="Continuous Deployment (CD)" height="380"/>
 
-
-### Cloud Aspects
-
-- IaaS, PaaS, SaaS, and ...aaS |
-- Public and Private Cloud |
-- Hybrid and Multi Cloud |
-
----
-### 
-
-+++
-
-### Learning Creative Learning
-
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/learningCreativeLearning.png" alt="Learning Creative Learning" height="380"/>
 

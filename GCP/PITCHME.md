@@ -11,3 +11,10 @@
 - Developer Tools
 - Logging and Monitoring (Stackdriver)
 - Big Data, AI, Security, and more ...
+
+---
+### Cloud Glossary
+- Public and Private Cloud 
+- Hybrid and Multi Cloud 
+- Microservices 
+- REST APIs
