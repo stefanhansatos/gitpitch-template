@@ -25,6 +25,7 @@
 
 
 OS, application, and distroless images
+Base and parent images
 
 +++
 
@@ -51,6 +52,52 @@ CMD ["/app"]
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
++++
+
+### YAML File Deployment
+
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+  labels:
+    app: nginx
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: nginx
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: gcr.io/google-containers/nginx:1.7.9
+        ports:
+        - containerPort: 80
+
+```
+
++++
+
+### YAML File Service
+
+```yaml
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx
+spec:
+  selector:
+    app: MyApp
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 9376
+```
 ---
 
 ### Advantages of Cloud-Native
