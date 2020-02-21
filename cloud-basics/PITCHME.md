@@ -19,6 +19,32 @@
 
 [Docker Hub](https://hub.docker.com/search?q=&type=image)
 
+[Google Container Registry](https://console.cloud.google.com/gcr/images/google-containers/GLOBAL)
+
+[Private Container Registry](https://console.cloud.google.com/gcr/images/aqueous-cargo-242610?project=aqueous-cargo-242610&authuser=0)
+
+
+OS, application, and distroless images
+
++++
+
+### Dockerfile
+
+```dockerfile
+FROM golang:1.12 as build-env
+
+WORKDIR /go/src/app
+ADD . /go/src/app
+
+RUN go get -d -v ./...
+
+RUN go build -o /go/bin/app
+
+FROM gcr.io/distroless/base
+COPY --from=build-env /go/bin/app /
+CMD ["/app"]
+```
+
 ---
 
 ### Container Orchestration Standard (k8s)
