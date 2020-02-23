@@ -5,6 +5,7 @@
 - Container Orchestration 
 - "as a Service" (IaaS, PaaS, SaaS ...) 
 - Microservices and Design Pattern 
+- Pets versus Cattles
 
 ---
 
