@@ -5,7 +5,7 @@
 - Container and Images 
 - Container Orchestration 
 - "as a Service" (IaaS, PaaS, SaaS ...) 
-- Microservices and Design Pattern 
+- Advantages and Features of Cloud-Native 
 
 ---
 
