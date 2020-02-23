@@ -25,13 +25,32 @@
 [Private Container Registry](https://console.cloud.google.com/gcr/images/aqueous-cargo-242610?project=aqueous-cargo-242610&authuser=0)
 
 
-OS, application, and distroless images
 
-Base and parent images
+[from scratch](https://hub.docker.com/_/scratch/), 
+[base](https://github.com/GoogleContainerTools/base-images-docker),
+and [distroless](https://github.com/GoogleContainerTools/distroless) images
 
 +++
 
-### Dockerfile
+###
+
+```dockerfile
+FROM golang:1.12 as build-env
+
+WORKDIR /go/src/app
+ADD . /go/src/app
+
+RUN go get -d -v ./... 
+
+RUN CGO_ENABLED=0 go build -a -ldflags '-s' -o /go/bin/app
+
+FROM scratch
+COPY --from=build-env /go/bin/app /
+CMD ["/app"]
+```
++++
+
+### Dockerfile for distroless image
 
 ```dockerfile
 FROM golang:1.12 as build-env
