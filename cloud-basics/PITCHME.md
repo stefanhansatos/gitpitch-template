@@ -60,8 +60,7 @@ CMD ["/app"]
 ```
 
 +++
-
-### Dockerfile for distroless image
+### Dockerfile: Multi-stage build <br> for distroless image
 
 ```dockerfile
 FROM golang:1.12 as build-env
@@ -75,7 +74,6 @@ FROM gcr.io/distroless/base
 COPY --from=build-env /go/bin/app /
 CMD ["/app"]
 ```
-#### Multi-stage build
 ---
 
 ### Container Orchestration (k8s)
