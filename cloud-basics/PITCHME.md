@@ -11,18 +11,18 @@
 ---
 ### Pets vs Cattle
 
-- Pets are unique, <br> need intense care, <br> and scale vertically up
-- Cattle are almost identical, <br> replaceable, <br> and scale horizontally out
+- Pets are unique, <br> need intense care, <br> and scale up vertically
+- Cattle are almost identical, <br> replaceable, <br> and scale out horizontally
 
 ---
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/enterprise-computing-approach.jpg" alt="enterprise computing approach" height="520"/>
 
 ### Pets
+
 ---
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/cloud-computing-approach.jpg" alt="cloud computing approach" height="520"/>
+
 ### Cattle
-
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/cloud-computing-approach.jpg" alt="cloud computing approach" height="450"/>
-
 ---
 ### Virtualization
 
