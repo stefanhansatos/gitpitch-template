@@ -58,6 +58,7 @@ curl localhost:8080
 
 docker rm [container]
 docker rmi [image]
+
 ```
 +++
 ### Dockerfile: Multi-stage build <br> for from scratch image
