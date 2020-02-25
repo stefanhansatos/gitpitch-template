@@ -38,10 +38,8 @@
 and [distroless](https://github.com/GoogleContainerTools/distroless)
 
 - registries: 
-[Docker Hub](https://hub.docker.com/search?q=&type=image)
-
-[Google Container Registry](https://console.cloud.google.com/gcr/images/google-containers/GLOBAL)
-
+[Docker Hub](https://hub.docker.com/search?q=&type=image), <br>
+[Google Container Registry](https://console.cloud.google.com/gcr/images/google-containers/GLOBAL)<br>
 [Private Container Registry](https://console.cloud.google.com/gcr/images/aqueous-cargo-242610?project=aqueous-cargo-242610&authuser=0)
 
 - an image runs in a container
