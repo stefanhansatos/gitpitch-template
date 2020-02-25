@@ -44,6 +44,8 @@ and [distroless](https://github.com/GoogleContainerTools/distroless)
 [Private Container Registry](https://console.cloud.google.com/gcr/images/aqueous-cargo-242610?project=aqueous-cargo-242610&authuser=0)
 
 +++
+### Docker: Run image from public repository
+
 ```bash
 docker run -p 8080:80 -d gcr.io/google-containers/nginx
 
