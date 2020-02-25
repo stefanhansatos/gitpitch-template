@@ -44,6 +44,14 @@ and [distroless](https://github.com/GoogleContainerTools/distroless)
 [Private Container Registry](https://console.cloud.google.com/gcr/images/aqueous-cargo-242610?project=aqueous-cargo-242610&authuser=0)
 
 +++
+```bash
+docker run -p 8080:80 -d gcr.io/google-containers/nginx
+docker images
+docker ps
+curl localhost:8080
+# try webview
+```
++++
 ### Dockerfile: Multi-stage build <br> for from scratch image
 
 ```dockerfile
@@ -74,6 +82,16 @@ FROM gcr.io/distroless/base
 COPY --from=build-env /go/bin/app /
 CMD ["/app"]
 ```
++++
+```bash
+gcloud auth configure-docker
+
+docker build -t gcr.io/aqueous-cargo-242610/presentation:web.distroless -f Dockerfile.distroless .
+docker push gcr.io/aqueous-cargo-242610/presentation:web.distroless
+
+docker build -t gcr.io/aqueous-cargo-242610/presentation:web.scratch -f Dockerfile.scratch .
+docker push gcr.io/aqueous-cargo-242610/presentation:web.scratch
+ ```
 ---
 
 ### Container Orchestration (k8s)
