@@ -46,10 +46,16 @@ and [distroless](https://github.com/GoogleContainerTools/distroless)
 +++
 ```bash
 docker run -p 8080:80 -d gcr.io/google-containers/nginx
+
 docker images
 docker ps
+docker logs -tf [container]
+
 curl localhost:8080
 # try webview
+
+docker rm [container]
+docker rmi [image]
 ```
 +++
 ### Dockerfile: Multi-stage build <br> for from scratch image
