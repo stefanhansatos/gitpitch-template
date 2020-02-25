@@ -1,6 +1,6 @@
 ### Cloud Basics
 
-- "Pets vs Cattle" or Why Cloud-Native
+- Cloud-Native or "Pets vs Cattle" 
 - Virtualisation 
 - Container and Images 
 - Container Orchestration 
@@ -9,7 +9,22 @@
 - Advantages and Features
 
 ---
+### Pets vs Cattle
 
+- Pets are unique and need intense care
+- Cattle are almost identical and replaceable
+
+---
+### Pets
+
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/enterprise-computing-approach.jpg" alt="enterprise computing approach" height="380"/>
+
+---
+### Cattle
+
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/cloud-computing-approach.jpg" alt="cloud computing approach" height="380"/>
+
+---
 ### Virtualization
 
 
