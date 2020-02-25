@@ -17,12 +17,12 @@
 ---
 ### Pets
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/enterprise-computing-approach.jpg" alt="enterprise computing approach" height="380"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/enterprise-computing-approach.jpg" alt="enterprise computing approach" height="420"/>
 
 ---
 ### Cattle
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/cloud-computing-approach.jpg" alt="cloud computing approach" height="380"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/cloud-computing-approach.jpg" alt="cloud computing approach" height="450"/>
 
 ---
 ### Virtualization
