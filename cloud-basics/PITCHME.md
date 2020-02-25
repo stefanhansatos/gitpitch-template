@@ -45,20 +45,20 @@ and [distroless](https://github.com/GoogleContainerTools/distroless)
 
 +++
 ### Dockerfile for from scratch image
+
 ```dockerfile
 FROM golang:1.12 as build-env
 
 WORKDIR /go/src/app
 ADD . /go/src/app
-
 RUN go get -d -v ./... 
-
 RUN CGO_ENABLED=0 go build -a -ldflags '-s' -o /go/bin/app
 
 FROM scratch
 COPY --from=build-env /go/bin/app /
 CMD ["/app"]
 ```
+### Multi-stage build
 +++
 
 ### Dockerfile for distroless image
@@ -68,16 +68,14 @@ FROM golang:1.12 as build-env
 
 WORKDIR /go/src/app
 ADD . /go/src/app
-
 RUN go get -d -v ./...
-
 RUN go build -o /go/bin/app
 
 FROM gcr.io/distroless/base
 COPY --from=build-env /go/bin/app /
 CMD ["/app"]
 ```
-
+## Multi-stage build
 ---
 
 ### Container Orchestration (k8s)
