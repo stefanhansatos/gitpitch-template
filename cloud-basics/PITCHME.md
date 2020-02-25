@@ -95,18 +95,13 @@ CMD ["/app"]
 ### Docker: Build image and <br> push to repository
 
 ```bash
-docker run -p 8080:80 -d gcr.io/google-containers/nginx
+gcloud auth configure-docker
 
-docker images
-docker ps
-docker logs -tf [container]
+docker build -t gcr.io/aqueous-cargo-242610/presentation:web.distroless -f Dockerfile.distroless .
+docker push gcr.io/aqueous-cargo-242610/presentation:web.distroless
 
-curl localhost:8080
-# try webview
-
-docker stop [container]
-docker rm [container]
-docker rmi [image]
+docker build -t gcr.io/aqueous-cargo-242610/presentation:web.scratch -f Dockerfile.scratch .
+docker push gcr.io/aqueous-cargo-242610/presentation:web.scratch
 ```
 ---
 
