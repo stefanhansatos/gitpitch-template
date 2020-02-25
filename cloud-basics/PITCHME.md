@@ -44,7 +44,7 @@ and [distroless](https://github.com/GoogleContainerTools/distroless)
 [Private Container Registry](https://console.cloud.google.com/gcr/images/aqueous-cargo-242610?project=aqueous-cargo-242610&authuser=0)
 
 +++
-### Dockerfile for from scratch image
+### Dockerfile: Multi-stage build for from scratch image
 
 ```dockerfile
 FROM golang:1.12 as build-env
@@ -58,7 +58,7 @@ FROM scratch
 COPY --from=build-env /go/bin/app /
 CMD ["/app"]
 ```
-### Multi-stage build
+
 +++
 
 ### Dockerfile for distroless image
@@ -75,7 +75,7 @@ FROM gcr.io/distroless/base
 COPY --from=build-env /go/bin/app /
 CMD ["/app"]
 ```
-## Multi-stage build
+#### Multi-stage build
 ---
 
 ### Container Orchestration (k8s)
