@@ -33,6 +33,11 @@
 
 ### Container and Images
 
+- parent images: [from scratch](https://hub.docker.com/_/scratch/), <br>
+                 [base](https://github.com/GoogleContainerTools/base-images-docker),
+                 and [distroless](https://github.com/GoogleContainerTools/distroless) images
+
+
 [Docker Hub](https://hub.docker.com/search?q=&type=image)
 
 [Google Container Registry](https://console.cloud.google.com/gcr/images/google-containers/GLOBAL)
@@ -41,9 +46,6 @@
 
 
 
-[from scratch](https://hub.docker.com/_/scratch/), 
-[base](https://github.com/GoogleContainerTools/base-images-docker),
-and [distroless](https://github.com/GoogleContainerTools/distroless) images
 
 +++
 
@@ -84,7 +86,7 @@ CMD ["/app"]
 
 ---
 
-### Container Orchestration Standard (k8s)
+### Container Orchestration (k8s)
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
