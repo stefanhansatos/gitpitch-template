@@ -34,7 +34,7 @@
 ### Containers and Images
 
 - an image runs one main process <br>
-in containers
+in a container
 - parent images: [from scratch](https://hub.docker.com/_/scratch/), <br> 
 [base](https://github.com/GoogleContainerTools/base-images-docker),
 and [distroless](https://github.com/GoogleContainerTools/distroless)
@@ -44,9 +44,7 @@ and [distroless](https://github.com/GoogleContainerTools/distroless)
 [Private Container Registry](https://console.cloud.google.com/gcr/images/aqueous-cargo-242610?project=aqueous-cargo-242610&authuser=0)
 
 +++
-
-###
-
+### Dockerfile for from scratch image
 ```dockerfile
 FROM golang:1.12 as build-env
 
