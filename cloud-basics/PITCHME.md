@@ -1,11 +1,12 @@
 ### Cloud Basics
 
-- "Pets vs Cattle"
+- "Pets vs Cattle" or Why Cloud-Native
 - Virtualisation 
 - Container and Images 
 - Container Orchestration 
 - "as a Service" (IaaS, PaaS, SaaS ...) 
-- Advantages and Features of Cloud-Native 
+- Microservices and APIs
+- Advantages and Features
 
 ---
 
