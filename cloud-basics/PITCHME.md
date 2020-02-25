@@ -204,7 +204,10 @@ spec:
 
 ```bash
 kubectl apply -f deployment.yaml
+watch kubectl get all
+
 kubectl apply -f service.yaml
+watch kubectl get services
 
 ```
 
