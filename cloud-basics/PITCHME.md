@@ -103,9 +103,9 @@ docker build \
 docker push gcr.io/aqueous-cargo-242610/presentation:web.distroless
 
 docker build \
--t gcr.io/aqueous-cargo-242610/presentation:web.scratch \
+-t eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch \
 -f Dockerfile.scratch .
-docker push gcr.io/aqueous-cargo-242610/presentation:web.scratch
+docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 ```
 ---
 
@@ -114,7 +114,45 @@ docker push gcr.io/aqueous-cargo-242610/presentation:web.scratch
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
 +++
+### Create GCP Network
 
+```bash
+gcloud compute networks create presentation-network \
+    --subnet-mode=custom
+
+gcloud compute networks subnets create presentation-subnet-europe-west1 \
+    --network=presentation-network \
+    --region=europe-west1 \
+    --range=10.0.0.0/9
+```
++++
+### Create GCP Kubernetes Engine
+
+```bash
+gcloud container clusters create presentation-cluster \
+    --zone europe-west1-b \
+    --scopes cloud-platform \
+    --network projects/aqueous-cargo-242610/global/networks/presentation-network \
+    --subnetwork projects/aqueous-cargo-242610/regions/europe-west1/subnetworks/presentation-subnet-europe-west1
+
+gcloud container clusters get-credentials presentation-cluster \
+    --zone europe-west1-b
+```
+
++++
+
+### kubectl investigates cluster
+
+```bash
+kubectl cluster-info
+kubectl get nodes
+kubectl get namespaces
+
+kubectl get all --namespace kube-system
+
+```
+
++++
 ### YAML File Deployment
 
 ```yaml
@@ -139,7 +177,6 @@ spec:
         image: gcr.io/google-containers/nginx:1.7.9
         ports:
         - containerPort: 80
-
 ```
 
 +++
@@ -153,12 +190,24 @@ metadata:
   name: nginx
 spec:
   selector:
-    app: MyApp
+    app: nginx
   ports:
-    - protocol: TCP
-      port: 80
-      targetPort: 9376
+  - protocol: TCP
+    port: 80
+    targetPort: 80 
+  type: LoadBalancer
 ```
+
++++
+
+### kubectl apply YAML files
+
+```bash
+kubectl apply -f deployment.yaml
+kubectl apply -f service.yaml
+
+```
+
 ---
 
 ### Advantages of Cloud-Native
