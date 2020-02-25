@@ -56,9 +56,9 @@ docker logs -tf [container]
 curl localhost:8080
 # try webview
 
+docker stop [container]
 docker rm [container]
 docker rmi [image]
-
 ```
 +++
 ### Dockerfile: Multi-stage build <br> for from scratch image
@@ -95,14 +95,19 @@ CMD ["/app"]
 ### Docker: Build image and <br> push to repository
 
 ```bash
-gcloud auth configure-docker
+docker run -p 8080:80 -d gcr.io/google-containers/nginx
 
-docker build -t gcr.io/aqueous-cargo-242610/presentation:web.distroless -f Dockerfile.distroless .
-docker push gcr.io/aqueous-cargo-242610/presentation:web.distroless
+docker images
+docker ps
+docker logs -tf [container]
 
-docker build -t gcr.io/aqueous-cargo-242610/presentation:web.scratch -f Dockerfile.scratch .
-docker push gcr.io/aqueous-cargo-242610/presentation:web.scratch
- ```
+curl localhost:8080
+# try webview
+
+docker stop [container]
+docker rm [container]
+docker rmi [image]
+```
 ---
 
 ### Container Orchestration (k8s)
