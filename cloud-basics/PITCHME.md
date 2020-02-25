@@ -11,8 +11,8 @@
 ---
 ### Pets vs Cattle
 
-- Pets are unique and need intense care
-- Cattle are almost identical and replaceable
+- Pets are unique <br> and need intense care
+- Cattle are almost identical <br> and replaceable
 
 ---
 ### Pets
