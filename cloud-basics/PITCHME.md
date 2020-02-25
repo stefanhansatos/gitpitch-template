@@ -33,7 +33,8 @@
 
 ### Containers and Images
 
-- an image runs one main process in containers
+- an image runs one main process <br>
+in containers
 - parent images: [from scratch](https://hub.docker.com/_/scratch/), <br> 
 [base](https://github.com/GoogleContainerTools/base-images-docker),
 and [distroless](https://github.com/GoogleContainerTools/distroless)
