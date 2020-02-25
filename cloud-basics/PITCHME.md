@@ -211,6 +211,10 @@ watch kubectl get services
 
 ```
 
+watch kubectl get po,deploy,rs
+
+. curl-loop.sh
+
 ---
 
 ### Advantages of Cloud-Native
