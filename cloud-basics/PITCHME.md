@@ -97,10 +97,14 @@ CMD ["/app"]
 ```bash
 gcloud auth configure-docker
 
-docker build -t gcr.io/aqueous-cargo-242610/presentation:web.distroless -f Dockerfile.distroless .
+docker build \
+-t gcr.io/aqueous-cargo-242610/presentation:web.distroless \
+-f Dockerfile.distroless .
 docker push gcr.io/aqueous-cargo-242610/presentation:web.distroless
 
-docker build -t gcr.io/aqueous-cargo-242610/presentation:web.scratch -f Dockerfile.scratch .
+docker build \
+-t gcr.io/aqueous-cargo-242610/presentation:web.scratch \
+-f Dockerfile.scratch .
 docker push gcr.io/aqueous-cargo-242610/presentation:web.scratch
 ```
 ---
