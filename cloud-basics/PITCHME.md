@@ -91,6 +91,8 @@ COPY --from=build-env /go/bin/app /
 CMD ["/app"]
 ```
 +++
+### Docker: Build image and push to repository
+
 ```bash
 gcloud auth configure-docker
 
