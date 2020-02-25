@@ -11,11 +11,11 @@
 ---
 ### Pets vs Cattle
 
-- Pets are unique <br> and need intense care
-- Cattle are almost identical <br> and replaceable
+- Pets are unique, <br> need intense care, <br> and scale vertically up
+- Cattle are almost identical, <br> replaceable, <br> and scale horizontally out
 
 ---
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/enterprise-computing-approach.jpg" alt="enterprise computing approach" height="480"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/enterprise-computing-approach.jpg" alt="enterprise computing approach" height="520"/>
 
 ### Pets
 ---
