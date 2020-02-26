@@ -109,10 +109,15 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 ```
 ---
 
-### Container Orchestration <img valign="center" src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="60"/>
+### Container Orchestration (k8s)
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
+---
+
+### Container Orchestration (k8s)
+
+- containers run in pods with shared network namespace, shared storage
 ---
 
 ### Container, Pods, and Volumes (k8s)
