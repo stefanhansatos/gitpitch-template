@@ -24,14 +24,14 @@
 
 ### Cattle
 ---
-### Virtualization
+### Container
 
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/containers.png" alt="Container" height="420"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/container-evolution.png" alt="container evolution" height="420"/>
 
 ---
 
-### Containers and Images
+### Images and Registries
 
 - an image runs one main process <br>
 in a container
@@ -111,7 +111,7 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 
 ### Container Orchestration (k8s)
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/pods-in-containers.jpg" alt="k8s" height="380"/>
 
 +++
 ### Create GCP Network
