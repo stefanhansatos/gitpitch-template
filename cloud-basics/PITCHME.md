@@ -249,9 +249,12 @@ watch kubectl get po,deploy,rs
 
 ### Services
 
-- **Microservices** follow the single concern principle (SCP) <br> implemented as container-based app
+- **Microservices** follow <br> the single concern principle (SCP) <br> implemented as container-based app
 
-- "as a Service" (IaaS, PaaS, SaaS ...)
+- **"as a Service"** <br> 
+Infrastructure as a Service (IaaS) <br> 
+Platform as a Service (PaaS) <br> 
+Software as a Service (SaaS)
 
 ---
 
