@@ -1,7 +1,6 @@
 ### Cloud Basics
 
 - Cloud-Native or "Pets vs Cattle" 
-- Virtualisation 
 - Container and Images 
 - Container Orchestration 
 - "as a Service" (IaaS, PaaS, SaaS ...) 
@@ -118,7 +117,7 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 ### Pods, Container, and Volumes (k8s)
 
 - **Pods** are the core building bricks
-- **Containers** run in Pods with shared network namespace and storage
+- **Containers** run in Pods with shared <br> network namespace and storage
 - **Volumes** are the storage of a Pod
 
 ---
