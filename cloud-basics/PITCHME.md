@@ -111,7 +111,7 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 
 ### Container Orchestration (k8s)
 
-<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/pods-in-containers.jpg" alt="k8s" height="380"/>
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
 ---
 
