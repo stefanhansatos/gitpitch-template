@@ -18,11 +18,7 @@
 ---
 ### GCP Products (100+)
 
-- Compute
-
-- Storage
-
-- Networking
+- Compute, Storage, and Networking
 
 - Developer Tools
 
