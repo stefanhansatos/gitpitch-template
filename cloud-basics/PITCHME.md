@@ -117,12 +117,14 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 ### Pods, Container, and Volumes (k8s)
 
 - **Pods** are the core building bricks
+
 - **Containers** run in Pods with shared <br> network namespace and storage
+
 - **Volumes** are the storage of a Pod
 
 ---
 
-### Deployments, ReplicaSets, <br> and Services
+### Deployments, ReplicaSets and Services
 - **Deployments** declare <br> ReplicaSets and Pods
 
 - **ReplicaSets** controll <br> the number of Pods running
