@@ -20,6 +20,8 @@
 
 - Compute, Storage, and Networking
 
+- Serverless Computing
+
 - Developer Tools
 
 - Logging and Monitoring (Stackdriver)
@@ -29,6 +31,6 @@
 ---
 ### Cloud Distinctions
 
-- Public and Private Cloud 
+- Public, private, and hybrid Cloud 
 
-- Hybrid and Multi Cloud 
+- Multi Cloud 
