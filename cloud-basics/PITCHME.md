@@ -11,6 +11,7 @@
 ### Pets vs Cattle
 
 - Pets are unique, <br> need intense care, <br> and scale up vertically
+
 - Cattle are almost identical, <br> replaceable, <br> and scale out horizontally
 
 ---
