@@ -113,6 +113,18 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/pods-in-containers.jpg" alt="k8s" height="380"/>
 
+---
+
+### Container, Pods, and Volumes (k8s)
+
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/pod-example.png" alt="pod-example" height="380"/>
+
+---
+
+### Deployment and Replicaset (k8s)
+
+<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/deploy-rs-pods-node.png" alt="k8s" height="380"/>
+
 +++
 ### Create GCP Network
 
