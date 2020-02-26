@@ -109,7 +109,7 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 ```
 ---
 
-### Container Orchestration <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="60"/>
+### Container Orchestration <img valign="center" src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="60"/>
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/k8s.png" alt="k8s" height="380"/>
 
