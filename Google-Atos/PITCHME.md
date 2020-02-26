@@ -15,10 +15,10 @@
 ### Training Resources
 
 
-[<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/coursera.jpeg" alt="Coursera" height="140"/>](https://www.coursera.org/)
-[<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/qwiklabs.jpeg" alt="QWikLabs" height="140"/>](https://www.qwiklabs.com/)
+[<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/coursera.jpeg" alt="Coursera" height="180"/>](https://www.coursera.org/)
+[<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/qwiklabs.jpeg" alt="QWikLabs" height="180"/>](https://www.qwiklabs.com/)
 
-[<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/linux-academy.jpeg" alt="Linux Academy" height="140"/>](https://app.linuxacademy.com/dashboard)
+[<img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/linux-academy.jpeg" alt="Linux Academy" height="160"/>](https://app.linuxacademy.com/dashboard)
 
 ---
 ### Google Resources
