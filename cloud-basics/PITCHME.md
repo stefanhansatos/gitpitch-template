@@ -114,7 +114,7 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 
 ---
 
-### Pods, Container, and Volumes (k8s)
+### Pods, Container, and Volumes
 
 - **Pods** are the core building bricks
 
