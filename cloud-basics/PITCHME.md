@@ -124,9 +124,9 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 
 ### Deployments, ReplicaSets, <br> and Services (k8s)
 
-- **Deployments** declare ReplicaSets and Pods
+- **Deployments** declare <br> ReplicaSets and Pods
 - **ReplicaSets** controll <br> the number of Pods running
-- **Services** expose pods as network services
+- **Services** expose <br> pods as network services
 
 +++ 
 
