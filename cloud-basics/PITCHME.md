@@ -243,14 +243,11 @@ watch kubectl get po,deploy,rs
 ```
 
 ```bash
-IP=$(kubectl get svc nginx -n foo \
+IP=$(kubectl get svc nginx \
     -o jsonpath="{.status.loadBalancer.ingress[*].ip}")
     
-. 
-```
-
-
 . curl-loop.sh
+```
 
 ---
 
