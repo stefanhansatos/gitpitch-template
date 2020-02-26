@@ -115,18 +115,25 @@ docker push eu.gcr.io/aqueous-cargo-242610/presentation:web.scratch
 
 ---
 
-### Container Orchestration (k8s)
+### Pods, Container, and Volumes (k8s)
 
-- containers run in pods with shared network namespace, shared storage
+- **Pods** are the core building bricks
+- **Containers** run in Pods with shared network namespace and storage
+- **Volumes** are the storage of a Pod
+
 ---
 
-### Container, Pods, and Volumes (k8s)
+### Deployments, ReplicaSets, and Services (k8s)
+
+- **Deployments** declare ReplicaSets and Pods
+- **ReplicaSets** controll the number of Pods running
+- **Services** expose pods as network services
+
++++ 
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/pod-example.png" alt="pod-example" height="420"/>
 
----
-
-### Deployment and Replicaset (k8s)
++++
 
 <img src="https://raw.githubusercontent.com/stefanhansatos/gitpitch-template/GCP_Atos_101/assets/image/deploy-rs-pods-node.png" alt="deploy, rs, pods, node" height="450"/>
 
