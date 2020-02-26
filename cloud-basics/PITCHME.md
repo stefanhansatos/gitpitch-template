@@ -3,8 +3,7 @@
 - Cloud-Native or "Pets vs Cattle" 
 - Container and Images 
 - Container Orchestration 
-- "as a Service" (IaaS, PaaS, SaaS ...) 
-- Microservices and APIs
+- Microservices and "as a Service" <br> IaaS, PaaS, SaaS ...
 - Advantages and Features
 
 ---
