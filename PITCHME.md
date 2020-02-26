@@ -1,6 +1,6 @@
 ### Agenda
 
-- Cloud Basics
+- Cloud-Native Basics
 
 - Google Cloud Platform
 

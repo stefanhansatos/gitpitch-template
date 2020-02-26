@@ -1,4 +1,4 @@
-### Cloud Basics
+### Cloud-Native Basics
 
 - "Pets vs Cattle" 
 
@@ -6,7 +6,7 @@
 
 - Container Orchestration 
 
-- Microservices and "as a Service" <br> (IaaS, PaaS, SaaS ...)
+- Services
 
 - Advantages and Features
 
@@ -244,6 +244,14 @@ watch kubectl get services
 watch kubectl get po,deploy,rs
 
 . curl-loop.sh
+
+---
+
+### Services
+
+- **Microservices** follow the single concern principle (SCP) <br> implemented as container-based app
+
+- "as a Service" (IaaS, PaaS, SaaS ...)
 
 ---
 
