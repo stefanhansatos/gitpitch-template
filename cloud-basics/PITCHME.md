@@ -262,7 +262,9 @@ Software as a Service (SaaS)
 ### Advantages of Cloud-Native
 
 - Immutability 
+
 - Declarative Configuration 
+
 - Online Self-healing Systems 
 
 +++
@@ -276,8 +278,11 @@ Software as a Service (SaaS)
 ### Features of Cloud-Native (k8s)
 
 - Products as a Service
+
 - CI/CD Pipelines 
+
 - REST APIs ([API Explorer](https://developers.google.com/apis-explorer/)) 
+
 - Integration in k8s ([Operator Hub](https://operatorhub.io/)) 
 
 +++ 
