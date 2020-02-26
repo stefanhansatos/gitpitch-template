@@ -1,9 +1,13 @@
 ### Cloud Basics
 
-- Cloud-Native or "Pets vs Cattle" 
-- Container and Images 
+- "Pets vs Cattle" 
+
+- Container, Images, and Registries 
+
 - Container Orchestration 
-- Microservices and "as a Service" <br> IaaS, PaaS, SaaS ...
+
+- Microservices and "as a Service" <br> (IaaS, PaaS, SaaS ...)
+
 - Advantages and Features
 
 ---
